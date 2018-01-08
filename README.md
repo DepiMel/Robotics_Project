@@ -1,6 +1,6 @@
 # Robotics_Project
 <br />
-Group: 
+Group: <br />
   Athanasiadis Stefanos <br />
   Melidoni Despoina <br />
 <br />
